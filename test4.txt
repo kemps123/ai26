@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is test 4 file in Master
 
+=======
+Stash file
+>>>>>>> new-branch
